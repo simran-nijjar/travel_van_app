@@ -8,8 +8,8 @@ Travel Van Application built using React JS, Node JS, Express JS and MySQL. REST
 
 ## How to Run the Application:
 1. download or clone the repository: git clone https://github.com/simran-nijjar/travel_van_app.git
-2. run on terminal or git bash: node ./frontend/src/db/index.js
-3. run in frontend folder: npm i 
+2. run on terminal or git bash: node ./front_end/src/db/index.js
+3. run in front_end folder: npm i 
 4. run: npm start
 
 
